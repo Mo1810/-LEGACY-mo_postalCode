@@ -38,7 +38,7 @@ Citizen.CreateThread(function()
 	TriggerEvent('chat:addSuggestion', '/postcode', 'set marker at target position', {
 	    { name="postal code", help="postal code of target (e.g. 001)" }
 	})
-)
+end)
 
 --[[--------------------------]]--
 --[[  Created by Mo1810#4230  ]]--
