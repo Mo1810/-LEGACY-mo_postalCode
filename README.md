@@ -1,5 +1,5 @@
 # mo_postalCode
-PostalCode Script for FiveM [lua]
+PostalCode Script for FiveM [lua;esx]
 
 For support please write an issue and I will proceed it as soon as possible. Or feel free to join my discord and ask for help. Link in my profile.
 
