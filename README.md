@@ -26,4 +26,4 @@ NEEDS THIS MAP TO SHOW RIGHT POSTCODES:
 - If you like to use this script with another map you have two options:
     1. write the coordinates for every postcode down
     2. find a list online with all postcodes and coordinates
- - In both ways I can assist you, but I will *NOT* write down the coords for you! :D
+ - In both ways I can assist you, but I will *NOT* write down the coords for you! :)
