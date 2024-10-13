@@ -22,6 +22,9 @@ NEEDS THIS MAP TO SHOW RIGHT POSTCODES:
  Type in "/postcode `<NUMBER>`" and there will be a marker placed on the map.
  - `<NUMBER>` - e.g. 201, 7920, ...
 
+# OTHER POSTCODES
+- Copy the fitting list from the `-postals.txt` file and **replace** the one in `config.lua` under `Config.postalcodes`.
+
 # INFO
 - If you like to use this script with another map you have two options:
     1. write the coordinates for every postcode down
