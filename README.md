@@ -7,7 +7,7 @@ For support please write an issue and I will proceed it as soon as possible. Or 
 
 # IMPORTANT
 
-NEEDS THIS MAP TO SHOW RIGHT POSTCODES: 
+NEEDS THIS MAP TO SHOW RIGHT POSTCODES [(OR YOU CHANGE THE POSTCODE LIST)](https://github.com/Mo1810/-LEGACY-mo_postalCode/?tab=readme-ov-file#other-postcodes): 
 - https://github.com/Oulsen/oulsen_satmap (not mine; only second "oulsen_satmap" folder, inside the first one is needed)
 - https://github.com/ArduousDev/MiniMap
 
