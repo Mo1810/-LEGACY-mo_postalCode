@@ -25,7 +25,7 @@ function setWaypoint(postalCode)
 		end
 	end
 	
-	if postalCode_coords.x ~= 0.0 and postalCode_coords.y ~= 0.0then
+	if postalCode_coords.x ~= 0.0 and postalCode_coords.y ~= 0.0 then
 		SetNewWaypoint(postalCode_coords.x, postalCode_coords.y)
 		notify(Config.Prefix.. "Marker was set ~g~successfully~s~. ~y~Postcode~s~: ~y~" ..postalCode)
 	else
