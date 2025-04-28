@@ -5,7 +5,7 @@ author 'Mo1810'
 version '1.1.0'
 
 shared_scripts {
- "config.lua"
+	"config.lua"
 }
 
 client_scripts { 
